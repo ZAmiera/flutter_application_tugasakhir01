@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378933872237",
+    "project_id": "tugasbesar01-17f88",
+    "storage_bucket": "tugasbesar01-17f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378933872237:android:2ba752b042c808d7e92164",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_tugasakhir01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378933872237-5l2bee9p6rb2ar8rgblocv1lojpll9qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv97NPHst4JJAYk3x8KA5kPJhnlRHKwvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378933872237-5l2bee9p6rb2ar8rgblocv1lojpll9qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
